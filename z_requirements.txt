@@ -1,0 +1,9 @@
+# pip install -r z_requirements.txt
+python-dotenv
+requests
+urllib3
+pynacl
+cryptography
+aiohttp
+asyncio
+tk
