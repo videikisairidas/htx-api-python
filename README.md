@@ -99,7 +99,7 @@ v0.0.1 2025-08-15 🧱 Initial release with Ed25519 + HMAC + Tkinter GUI. (for t
 
 #
 
-Need help or want to share feedback?---
+Need help or want to share feedback?----
 You can reach out here:
 
 📧 Discord: [Discord](https://discord.gg/PSDD6HJhpx)
