@@ -21,13 +21,15 @@
 
 ## 🧠 Tech Stack
 
-| Component      | Description                      |
-| -------------- | -------------------------------- |
-| 🐍 Python 3.12 | Core programming language        |
-| 🪪 Ed25519      | Public-key signature system      |
-| 🔒 HMAC        | Message authentication           |
-| 🧰 HTX API     | RESTful API endpoint integration |
-| 🖥️ Tkinter     | GUI for user interactions        |
+| Component          | Description                      |
+| ------------------ | -------------------------------- |
+| 🐍 Python 3.12     | Core programming language        |
+| 🪪 Ed25519          | Public-key signature system      |
+| 🔒 HMAC            | Message authentication           |
+| 🧰 HTX API         | RESTful API endpoint integration |
+| 🖥️ Tkinter         | GUI for user interactions        |
+| 🖥️ cryptography    | creating signature and signing   |
+| 🖥️ aiohttp/asyncio | get/post data from/to api        |
 
 - other needed packages
 
@@ -112,11 +114,15 @@ run htx-api-python/example/hmac/get_account.py
 
 Licensed under the MIT License © 2025 videikisairidas
 
-# 💬 Support
+# 💬
 
 Need help or want to share feedback?-
 You can reach out here:
 
 📧 Discord: [Discord](https://discord.gg/PSDD6HJhpx)
+Telegram Private msg: [Text me](https://t.me/airis_whatever)
 
-☕ Support the Project: **[Buy Me a Coffee ☕](https://buymeacoffee.com/maxyou200)**
+# 💖 Support My Work
+
+If you find this project helpful, consider supporting me:
+[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow.svg)](https://buymeacoffee.com/maxyou200)
