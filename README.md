@@ -53,26 +53,26 @@ python3 -m venv .venv
 ctrl + shift + p
 ```
 
-# 2.2 activate venv
+2.2 **activate venv**
 
 ```
 .\.venv\Scripts\activate
 ```
 
-# 2. install packages
+**3. install packages**
 
 ```
 pip install -r htx_api_python/z_requirements.txt
 python -m pip install --upgrade pip
 ```
 
-# 3. setup .env
+**4. setup .env**
 
 ```
 copy/rename .env.example -> .env
 ```
 
-# 4.a if you want use ed25519,
+**5.a if you want use ed25519,**
 
 ```
 create public and private keys
@@ -81,41 +81,33 @@ Create a key and public it: copy text from ed25519-public.pem **without 1 and 3 
 Copy created key **access_key** and put to .env -> HTX_Ed25519_ACCESS_KEY
 ```
 
-# 4.b using HMACSHA256
+**5.b using HMACSHA256**
 
 ```
 Create access_key and secret_key in **[htx](https://www.htx.com/apikey/)**
 Copy both to .env HTX_ACCESS_KEY and HTX_SECRET_KEY
 ```
 
-# 5.a run tk UI/main.py
+**6.a run tk UI/main.py**
 
 ```
 run htx-api-python/main.py with tk UI
 ```
 
-# 5.b run terminal examples
+**6.b run terminal examples**
 
 ```
 run htx-api-python/example/ed25519/get_account.py
 run htx-api-python/example/hmac/get_account.py
 ```
 
-#
-
-# 🧾 Version History & Updates
-
-#
+## 🧾 Version History & Updates
 
 | Version | Changes                                                                 |
 | ------- | ----------------------------------------------------------------------- |
 | v0.0.1  | 🧱 Initial release with Ed25519 + HMAC + Tkinter GUI. (for testing api) |
 
-#
-
-# 💬 Support
-
-#
+## 💬 Support
 
 Need help or want to share feedback?-
 You can reach out here:
@@ -124,10 +116,6 @@ You can reach out here:
 
 ☕ Support the Project: **[Buy Me a Coffee ☕](https://buymeacoffee.com/maxyou200)**
 
-#
-
-# 📜 License
-
-#
+## 📜 License
 
 Licensed under the MIT License © 2025 videikisairidas
