@@ -13,7 +13,7 @@
 
 ✅ Send and receive data securely through the HTX API  
 ✅ Generate and verify **Ed25519** signatures  
-✅ Compute **HMAC** authentication headers  
+✅ Generate and verify **HMAC** signatures
 ✅ Simple and intuitive **Tkinter** GUI  
 ✅ Clean, modular Python architecture
 
@@ -98,6 +98,7 @@ run htx-api-python/main.py with tk UI
 
 ```
 run htx-api-python/example/ed25519/get_account.py
+or
 run htx-api-python/example/hmac/get_account.py
 ```
 
@@ -107,7 +108,11 @@ run htx-api-python/example/hmac/get_account.py
 | ------- | ----------------------------------------------------------------------- |
 | v0.0.1  | 🧱 Initial release with Ed25519 + HMAC + Tkinter GUI. (for testing api) |
 
-## 💬 Support
+## 📜 License
+
+Licensed under the MIT License © 2025 videikisairidas
+
+# 💬 Support
 
 Need help or want to share feedback?-
 You can reach out here:
@@ -115,7 +120,3 @@ You can reach out here:
 📧 Discord: [Discord](https://discord.gg/PSDD6HJhpx)
 
 ☕ Support the Project: **[Buy Me a Coffee ☕](https://buymeacoffee.com/maxyou200)**
-
-## 📜 License
-
-Licensed under the MIT License © 2025 videikisairidas
