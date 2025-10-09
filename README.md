@@ -114,15 +114,17 @@ run htx-api-python/example/hmac/get_account.py
 
 Licensed under the MIT License © 2025 videikisairidas
 
-# 💬
+# 💬 Support
 
 Need help or want to share feedback?-
 You can reach out here:
 
 📧 Discord: [Discord](https://discord.gg/PSDD6HJhpx)
+
 Telegram Private msg: [Text me](https://t.me/airis_whatever)
 
 # 💖 Support My Work
 
 If you find this project helpful, consider supporting me:
+
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow.svg)](https://buymeacoffee.com/maxyou200)
