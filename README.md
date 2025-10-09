@@ -13,7 +13,7 @@
 
 ✅ Send and receive data securely through the HTX API  
 ✅ Generate and verify **Ed25519** signatures  
-✅ Generate and verify **HMAC** signatures
+✅ Generate and verify **HMAC** signatures  
 ✅ Simple and intuitive **Tkinter** GUI  
 ✅ Clean, modular Python architecture
 
